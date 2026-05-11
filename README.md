@@ -111,14 +111,6 @@ filtro.py
 
 ---
 
-## 🔊 Controle de Volume com Gestos
-
-- Distância entre dedos
-- Controle por gestos
-- Interação em tempo real
-
----
-
 ## 🥸 Filtro Facial
 
 - Óculos desenhados em tempo real
@@ -129,7 +121,7 @@ filtro.py
 
 # 📌 Modelos `.task`
 
-Os modelos utilizados podem ser baixados no site oficial do MediaPipe:
+Os modelos utilizados podem ser baixados no site oficial do Google Dev:
 
 - Face Landmarker
 - Hand Landmarker
